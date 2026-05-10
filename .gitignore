@@ -1,7 +1,0 @@
-# .streamlit/secrets.toml
-# NÃO envie este arquivo para o GitHub — adicione ao .gitignore
-# Configure os valores reais no painel do Streamlit Cloud:
-# App Settings → Secrets
- 
-SUPABASE_URL = "https://SEU_PROJETO.supabase.co"
-SUPABASE_KEY = "sua_anon_key_aqui"
